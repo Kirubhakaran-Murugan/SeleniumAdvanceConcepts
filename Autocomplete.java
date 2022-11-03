@@ -51,7 +51,6 @@ public class AutoCompletion {
 		File destination = new File ("C:\\Users\\kirubhakaran.murugan\\Pictures\\Screenshots\\autocomplete1.png");
 		ImageIO.write(source, "png", destination);*/
 		
-		
 		driver.quit();		
 		
 	}
